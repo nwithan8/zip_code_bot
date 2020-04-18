@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 
 import praw
-import os, sys
 import re
-import shutil
-import requests
 from usps import USPSApi, Address
 import logging
 import sql_library as sql

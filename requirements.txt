@@ -1,0 +1,6 @@
+requests
+lxml
+xmltodict
+sqlite3
+praw
+prawcore
